@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.e24d7ecd.css",
-    "main.js": "./static/js/main.7e22658f.js",
-    "static/media/release1.png": "./static/media/release1.0c482aba7d6da2c3e9bb.png",
+    "main.css": "./static/css/main.7b4fd203.css",
+    "main.js": "./static/js/main.3cca41bf.js",
+    "static/media/card-background.avif": "./static/media/card-background.4ef9031b72b13c56acbb.avif",
     "static/media/wallet-ss.jpg": "./static/media/wallet-ss.f6ae680c9320e1b08aea.jpg",
     "static/media/home.png": "./static/media/home.7fc4253ec840bd813401.png",
     "static/media/signup.png": "./static/media/signup.12cb0fcd7fcce38eca10.png",
@@ -10,14 +10,13 @@
     "static/media/network-fee.png": "./static/media/network-fee.0f9915f6032ca3b6fb95.png",
     "static/media/release2.png": "./static/media/release2.d54e21ff9ecf711580c1.png",
     "static/media/super1.png": "./static/media/super1.1fbdfb3ac7255099ffbb.png",
-    "static/media/guardians.JPG": "./static/media/guardians.4ba695b6e30f2e9e0cb1.JPG",
-    "static/media/founder.jpg": "./static/media/founder.3152e8c822f6aa4db64a.jpg",
+    "static/media/founder.jpg": "./static/media/founder.480ff062b3a40c0ec6d9.jpg",
     "index.html": "./index.html",
-    "main.e24d7ecd.css.map": "./static/css/main.e24d7ecd.css.map",
-    "main.7e22658f.js.map": "./static/js/main.7e22658f.js.map"
+    "main.7b4fd203.css.map": "./static/css/main.7b4fd203.css.map",
+    "main.3cca41bf.js.map": "./static/js/main.3cca41bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.e24d7ecd.css",
-    "static/js/main.7e22658f.js"
+    "static/css/main.7b4fd203.css",
+    "static/js/main.3cca41bf.js"
   ]
 }
