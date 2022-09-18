@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.6cf58538.css",
+    "main.css": "./static/css/main.b899be85.css",
     "main.js": "./static/js/main.daa857c5.js",
-    "static/media/card-background.avif": "./static/media/card-background.4ef9031b72b13c56acbb.avif",
+    "static/media/card-background.avif": "./static/media/card-background.88cc93a7ff539a8ccd31.avif",
     "static/media/wallet-ss.jpg": "./static/media/wallet-ss.f6ae680c9320e1b08aea.jpg",
     "static/media/home.png": "./static/media/home.7fc4253ec840bd813401.png",
     "static/media/signup.png": "./static/media/signup.12cb0fcd7fcce38eca10.png",
@@ -12,11 +12,11 @@
     "static/media/super1.png": "./static/media/super1.1fbdfb3ac7255099ffbb.png",
     "static/media/founder.jpg": "./static/media/founder.480ff062b3a40c0ec6d9.jpg",
     "index.html": "./index.html",
-    "main.6cf58538.css.map": "./static/css/main.6cf58538.css.map",
+    "main.b899be85.css.map": "./static/css/main.b899be85.css.map",
     "main.daa857c5.js.map": "./static/js/main.daa857c5.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cf58538.css",
+    "static/css/main.b899be85.css",
     "static/js/main.daa857c5.js"
   ]
 }
